@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>marlborough_hill_rend.tif</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-2.00138424464052" miny="51.24862560620454" maxx="-1.64143762934119" maxy="51.47396204540195"/>
+      <Origin x="-2.00138424464052" y="51.24862560620454"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="16" units-per-pixel="2.38865713348389" order="16"/>
+      </TileSets>
+    </TileMap>
+    
