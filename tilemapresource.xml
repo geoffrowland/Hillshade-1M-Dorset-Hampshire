@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>swindon_hil_rend.tif</Title>
+      <Title>Southampton_SU4_mlw_hill_rend_1.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.00139142118071" miny="51.47341915535588" maxx="-1.63966013458029" maxy="51.69875068836230"/>
-      <Origin x="-2.00139142118071" y="51.47341915535588"/>
+      <BoundingBox minx="-1.43378423081900" miny="50.79740735872494" maxx="-1.28848422194537" maxy="51.02297981455245"/>
+      <Origin x="-1.43378423081900" y="50.79740735872494"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
