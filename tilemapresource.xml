@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>andover_1m_SU4_hill_rend.tif</Title>
+      <Title>gap-hill-rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-1.43105033055287" miny="51.02220017111687" maxx="-1.28502099574205" maxy="51.24777298926717"/>
-      <Origin x="-1.43105033055287" y="51.02220017111687"/>
+      <BoundingBox minx="-1.57527430039634" miny="50.84347328017410" maxx="-1.50331135535344" maxy="50.93367291121714"/>
+      <Origin x="-1.57527430039634" y="50.84347328017410"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
