@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>gap-hill-rend.tif</Title>
+      <Title>stow2_hill_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-1.57527430039634" miny="50.84347328017410" maxx="-1.50331135535344" maxy="50.93367291121714"/>
-      <Origin x="-1.57527430039634" y="50.84347328017410"/>
+      <BoundingBox minx="-2.00140756582269" miny="51.69819819199987" maxx="-1.63787555800835" maxy="51.92352038229252"/>
+      <Origin x="-2.00140756582269" y="51.69819819199987"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
