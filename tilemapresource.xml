@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>needlesdtmhillcliprend.tif</Title>
+      <Title>cotswoldsdtmhillrend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-1.59243169075723" miny="50.61893080544267" maxx="-1.57648568780387" maxy="50.70891053894821"/>
-      <Origin x="-1.59243169075723" y="50.61893080544267"/>
+      <BoundingBox minx="-2.00140876491687" miny="51.92296989610964" maxx="-1.63604125712579" maxy="52.14829856866310"/>
+      <Origin x="-2.00140876491687" y="51.92296989610964"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
