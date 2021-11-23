@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>hants1_hill_rend.tif</Title>
+      <Title>needlesdtmhillcliprend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-1.29122994374790" miny="50.83967359436865" maxx="-0.93210189529341" maxy="51.02220551587666"/>
-      <Origin x="-1.29122994374790" y="50.83967359436865"/>
+      <BoundingBox minx="-1.59243169075723" miny="50.61893080544267" maxx="-1.57648568780387" maxy="50.70891053894821"/>
+      <Origin x="-1.59243169075723" y="50.61893080544267"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
