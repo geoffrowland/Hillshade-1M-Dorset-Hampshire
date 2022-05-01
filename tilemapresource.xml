@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>SalisburyPlainRend.tif</Title>
+      <Title>winchester1mRend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.00137548043854" miny="51.11374766458083" maxx="-1.64318152328019" maxy="51.24916558620286"/>
-      <Origin x="-2.00137548043854" y="51.11374766458083"/>
+      <BoundingBox minx="-1.64491147569866" miny="51.02219667462951" maxx="-1.28501845819056" maxy="51.24862412696042"/>
+      <Origin x="-1.64491147569866" y="51.02219667462951"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
